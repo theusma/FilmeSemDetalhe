@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hora Da Pipoca</string>
+    <string name="dica_busca">Nome do Filme</string>
+    <string name="btn_busca">Buscar</string>
+</resources>
